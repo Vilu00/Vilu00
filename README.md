@@ -4,8 +4,6 @@ I am a **PhD student in Pure Mathematics** at the University of Padova, Italy.
 
 My research lies in **Algebra**, and I am currently working on understanding specific algebraic structures arising from surfaces; a topic I find truly fascinating since it blends together different areas of mathematics such as combinatorics, geometry and algebra ✨. 
 
-While I am a pure mathematician at heart, I am very curious about **programming** 💻.  In particular I am currently learning how to integrate software development and AI 🤖 into my research, and I'm excited to learn and contribute to this community here.  
-
 #### Beyond the Desk 🧁
 
 When I'm not in my office or at my desk doing math, you can usually find me **running** 🏃‍♀️, **baking cakes** 🎂, or hanging out with friends 🧑‍🤝‍🧑.
